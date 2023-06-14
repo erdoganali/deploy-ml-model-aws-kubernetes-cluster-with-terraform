@@ -1,0 +1,4 @@
+.terraform
+*.svg
+*.tfvars
+__pycache__
